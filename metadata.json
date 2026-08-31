@@ -1,0 +1,6 @@
+{
+  "name": "Gestor Financeiro Inteligente",
+  "description": "Gestão completa de despesas, receitas, controle de contas e relatório inteligente de saúde financeira com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
